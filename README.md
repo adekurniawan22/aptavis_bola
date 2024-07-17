@@ -6,7 +6,6 @@ Proyek ini adalah sebuah aplikasi untuk menambahkan data klub dan pertandingan, 
 ## Persyaratan Sistem
 - PHP versi >= 7.4
 - MySQL atau MariaDB
-- Composer
 
 ## Instalasi
 1. Clone repositori ini ke dalam direktori web server Anda.
